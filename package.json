@@ -1,0 +1,12 @@
+{
+  "name": "Youame",
+  "version": "0.0.1",
+  "description": "Telegram Bot to ...",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.4.1",
+  }
+}
